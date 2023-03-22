@@ -1,0 +1,35 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "android": {
+      "packageName": "com.starrysky.game",
+      "orientation": {
+        "portrait": false,
+        "upsideDown": false,
+        "landscapeRight": true,
+        "landscapeLeft": true
+      },
+      "apiLevel": "android-31",
+      "appABIs": [
+        "arm64-v8a",
+        "armeabi-v7a"
+      ],
+      "useDebugKeystore": false,
+      "keystorePath": "/Users/zing/Documents/androidstudio_key/isme.keystore",
+      "keystorePassword": "isallright",
+      "keystoreAlias": "isme",
+      "keystoreAliasPassword": "isallright",
+      "appBundle": false,
+      "androidInstant": false,
+      "remoteUrl": "",
+      "sdkPath": "",
+      "ndkPath": "",
+      "renderBackEnd": {
+        "vulkan": false,
+        "gles3": true,
+        "gles2": true
+      },
+      "swappy": false
+    }
+  }
+}

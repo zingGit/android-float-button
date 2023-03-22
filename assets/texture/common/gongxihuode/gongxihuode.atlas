@@ -1,0 +1,118 @@
+
+gongxihuode.png
+size: 1462,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 0, 376
+  size: 1180, 394
+  orig: 1180, 394
+  offset: 0, 0
+  index: -1
+caidai
+  rotate: false
+  xy: 433, 215
+  size: 668, 159
+  orig: 668, 159
+  offset: 0, 0
+  index: -1
+guangxiao_01
+  rotate: true
+  xy: 1182, 37
+  size: 733, 280
+  orig: 733, 280
+  offset: 0, 0
+  index: -1
+guangxiao_02
+  rotate: false
+  xy: 433, 16
+  size: 620, 197
+  orig: 620, 197
+  offset: 0, 0
+  index: -1
+guangxiao_03
+  rotate: false
+  xy: 0, 175
+  size: 431, 199
+  orig: 431, 199
+  offset: 0, 0
+  index: -1
+gx_01
+  rotate: false
+  xy: 1212, 3
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+gx_02
+  rotate: false
+  xy: 1149, 305
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+gx_03
+  rotate: true
+  xy: 1103, 277
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 1055, 6
+  size: 113, 81
+  orig: 113, 81
+  offset: 0, 0
+  index: -1
+icon_bg
+  rotate: false
+  xy: 1055, 89
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+jinbi_01
+  rotate: false
+  xy: 1103, 234
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+jinbi_02
+  rotate: false
+  xy: 1248, 5
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+jinbi_03
+  rotate: false
+  xy: 0, 0
+  size: 300, 92
+  orig: 300, 92
+  offset: 0, 0
+  index: -1
+pd_01
+  rotate: true
+  xy: 1103, 325
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+pd_02
+  rotate: false
+  xy: 1170, 1
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 0, 94
+  size: 353, 79
+  orig: 353, 79
+  offset: 0, 0
+  index: -1

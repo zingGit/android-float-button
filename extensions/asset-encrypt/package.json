@@ -1,0 +1,34 @@
+{
+    "package_version": 2,
+    "version": "1.0.0",
+    "name": "asset-encrypt",
+    "description": "i18n:asset-encrypt.description",
+    "main": "./dist/main.js",
+    "devDependencies": {
+        "@types/node": "^16.0.1",
+        "typescript": "^4.3.4"
+    },
+    "author": "kevin",
+    "editor": ">=3.3.2",
+    "scripts": {
+        "build": "tsc -b",
+        "watch": "tsc -w"
+    },
+    "contributions": {
+        "messages": {
+            "about": {
+                "methods": [
+                    "about"
+                ]
+            }
+        },
+        "menu": [
+            {
+                "path": "i18n:menu.extension",
+                "label": "Assets Encrypt",
+                "icon": "./static/encrypted.png",
+                "message": "about"
+            }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "web-mobile": {
+      "orientation": "landscape",
+      "remoteServerAddress": "https://d32n901fzg02r8.cloudfront.net"
+    }
+  }
+}

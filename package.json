@@ -1,0 +1,28 @@
+{
+  "name": "brazil-lobby-client",
+  "uuid": "4c13155a-c417-43ef-bff8-8dcbd9f0892a",
+  "version": "3.5.2",
+  "creator": {
+    "version": "3.5.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.0.233:3000/sam/brazil-lobby-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/shelljs": "^0.8.11",
+    "@wecom/crypto": "^1.0.1",
+    "js-base64": "^3.7.3",
+    "jszip": "^3.10.0",
+    "protobufjs": "^6.11.2",
+    "semver": "^5.7.1",
+    "shelljs": "^0.8.5"
+  }
+}

@@ -1,0 +1,160 @@
+
+baccarat.png
+size: 845,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A01
+  rotate: false
+  xy: 782, 412
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+amy1
+  rotate: false
+  xy: 577, 87
+  size: 105, 239
+  orig: 105, 239
+  offset: 0, 0
+  index: -1
+amy2
+  rotate: false
+  xy: 684, 190
+  size: 56, 157
+  orig: 56, 157
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 0, 386
+  size: 400, 657
+  orig: 400, 657
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 402, 555
+  size: 230, 488
+  orig: 230, 488
+  offset: 0, 0
+  index: -1
+chouma01
+  rotate: false
+  xy: 635, 463
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+chouma2
+  rotate: false
+  xy: 684, 52
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 349, 334
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 782, 370
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 742, 238
+  size: 89, 115
+  orig: 89, 115
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: true
+  xy: 349, 14
+  size: 85, 187
+  orig: 85, 187
+  offset: 0, 0
+  index: -1
+guang01
+  rotate: true
+  xy: 634, 698
+  size: 345, 201
+  orig: 345, 201
+  offset: 0, 0
+  index: -1
+guang02
+  rotate: false
+  xy: 402, 328
+  size: 231, 225
+  orig: 231, 225
+  offset: 0, 0
+  index: -1
+guang03
+  rotate: false
+  xy: 349, 101
+  size: 226, 225
+  orig: 226, 225
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: true
+  xy: 634, 601
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+hair05
+  rotate: false
+  xy: 734, 355
+  size: 46, 106
+  orig: 46, 106
+  offset: 0, 0
+  index: -1
+hair06
+  rotate: false
+  xy: 742, 198
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+hair07
+  rotate: false
+  xy: 774, 486
+  size: 71, 113
+  orig: 71, 113
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 538, 36
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 0, 0
+  size: 384, 112
+  orig: 384, 112
+  offset: 0, 0
+  index: -1
+touf
+  rotate: false
+  xy: 635, 349
+  size: 97, 112
+  orig: 97, 112
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 114, 24
+  size: 233, 360
+  orig: 233, 360
+  offset: 0, 0
+  index: -1

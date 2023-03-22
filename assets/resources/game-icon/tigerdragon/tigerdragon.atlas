@@ -1,0 +1,209 @@
+
+tigerdragon.png
+size: 833,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 379
+  size: 400, 657
+  orig: 400, 657
+  offset: 0, 0
+  index: -1
+d1
+  rotate: true
+  xy: 353, 0
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+d10
+  rotate: true
+  xy: 402, 391
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+d11
+  rotate: true
+  xy: 682, 583
+  size: 161, 146
+  orig: 161, 146
+  offset: 0, 0
+  index: -1
+d13
+  rotate: false
+  xy: 794, 207
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+d14
+  rotate: true
+  xy: 0, 99
+  size: 278, 355
+  orig: 278, 355
+  offset: 0, 0
+  index: -1
+d15
+  rotate: false
+  xy: 674, 746
+  size: 155, 113
+  orig: 155, 113
+  offset: 0, 0
+  index: -1
+d17
+  rotate: false
+  xy: 402, 717
+  size: 270, 319
+  orig: 270, 319
+  offset: 0, 0
+  index: -1
+d18
+  rotate: true
+  xy: 575, 7
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 324, 35
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 663, 9
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+d4
+  rotate: true
+  xy: 575, 87
+  size: 145, 217
+  orig: 145, 217
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 750, 272
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 497, 410
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+d8
+  rotate: false
+  xy: 195, 5
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+d9
+  rotate: true
+  xy: 497, 473
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 357, 234
+  size: 391, 143
+  orig: 391, 143
+  offset: 0, 0
+  index: -1
+t1
+  rotate: true
+  xy: 620, 444
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+t10
+  rotate: false
+  xy: 750, 312
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+t11
+  rotate: false
+  xy: 446, 1
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+t12
+  rotate: true
+  xy: 0, 0
+  size: 97, 193
+  orig: 97, 193
+  offset: 0, 0
+  index: -1
+t13
+  rotate: false
+  xy: 402, 538
+  size: 278, 177
+  orig: 278, 177
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 572, 423
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 778, 2
+  size: 43, 83
+  orig: 43, 83
+  offset: 0, 0
+  index: -1
+t4
+  rotate: true
+  xy: 682, 425
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 402, 444
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 750, 235
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+t7
+  rotate: false
+  xy: 357, 53
+  size: 216, 179
+  orig: 216, 179
+  offset: 0, 0
+  index: -1
+t9
+  rotate: true
+  xy: 674, 861
+  size: 175, 156
+  orig: 175, 156
+  offset: 0, 0
+  index: -1

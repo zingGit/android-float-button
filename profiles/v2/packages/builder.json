@@ -1,0 +1,514 @@
+{
+  "__version__": "1.3.2",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "name": "BetMania",
+    "outputName": "android-001",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "replaceSplashScreen": true,
+    "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+    "md5Cache": false,
+    "mainBundleIsRemote": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1677486233783": {
+        "id": "1677486233783",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-3-21 19:35 Build success in 6426 ms!",
+        "options": {
+          "name": "Star Star",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+          "scenes": [
+            {
+              "url": "db://assets/scene/lanuch.scene",
+              "uuid": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.starstar.game",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-31",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": false,
+              "keystorePath": "/Users/zing/Documents/androidstudio_key/isme.keystore",
+              "keystorePassword": "isallright",
+              "keystoreAlias": "isme",
+              "keystoreAliasPassword": "isallright",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "ab3c9a",
+              "services": [
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "/Users/zing/.CocosCreator/.service/sdkhub/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            },
+            "hot-update": null,
+            "cocos-build-template1": {
+              "enterCocos": ""
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "f8Clo6BB5PEZHCN7",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2023-3-21 19:35",
+        "dirty": true,
+        "rawOptions": {
+          "name": "Star Star",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+          "scenes": [
+            {
+              "url": "db://assets/scene/lanuch.scene",
+              "uuid": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.starstar.game",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-31",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": false,
+              "keystorePath": "/Users/zing/Documents/androidstudio_key/isme.keystore",
+              "keystorePassword": "isallright",
+              "keystoreAlias": "isme",
+              "keystoreAliasPassword": "isallright",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "ab3c9a",
+              "services": [
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "/Users/zing/.CocosCreator/.service/sdkhub/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            },
+            "hot-update": null,
+            "cocos-build-template1": {
+              "enterCocos": ""
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "f8Clo6BB5PEZHCN7",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        }
+      },
+      "1677497535016": {
+        "id": "1677497535016",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-3-21 19:32 Build success in 6521 ms!",
+        "options": {
+          "name": "StarrySky",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+          "scenes": [
+            {
+              "url": "db://assets/scene/lanuch.scene",
+              "uuid": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-a",
+          "packages": {
+            "android": {
+              "packageName": "com.starrysky.game",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-31",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": false,
+              "keystorePath": "/Users/zing/Documents/androidstudio_key/isme.keystore",
+              "keystorePassword": "isallright",
+              "keystoreAlias": "isme",
+              "keystoreAliasPassword": "isallright",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "ab3c9a",
+              "services": [
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "/Users/zing/.CocosCreator/.service/sdkhub/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            },
+            "hot-update": null,
+            "cocos-build-template1": {
+              "enterCocos": ""
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "94NapyiWVBH4cpms",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2023-3-21 19:32",
+        "dirty": true,
+        "rawOptions": {
+          "name": "StarrySky",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+          "scenes": [
+            {
+              "url": "db://assets/scene/lanuch.scene",
+              "uuid": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-a",
+          "packages": {
+            "android": {
+              "packageName": "com.starrysky.game",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-31",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": false,
+              "keystorePath": "/Users/zing/Documents/androidstudio_key/isme.keystore",
+              "keystorePassword": "isallright",
+              "keystoreAlias": "isme",
+              "keystoreAliasPassword": "isallright",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "ab3c9a",
+              "services": [
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "/Users/zing/.CocosCreator/.service/sdkhub/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            },
+            "hot-update": null,
+            "cocos-build-template1": {
+              "enterCocos": ""
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "94NapyiWVBH4cpms",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        }
+      },
+      "1677637527031": {
+        "id": "1677637527031",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-3-21 16:31 Build success in 9382 ms!",
+        "options": {
+          "name": "BetMania",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+          "scenes": [
+            {
+              "url": "db://assets/scene/lanuch.scene",
+              "uuid": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "landscape",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "remoteServerAddress": "https://d32n901fzg02r8.cloudfront.net"
+            },
+            "cocos-service": {
+              "configID": "ab3c9a",
+              "services": [
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "/Users/zing/.CocosCreator/.service/sdkhub/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            },
+            "hot-update": null
+          }
+        },
+        "time": "2023-3-21 16:31",
+        "dirty": false
+      },
+      "1679399798799": {
+        "id": "1679399798799",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-3-21 19:56 Build success in 7016 ms!",
+        "options": {
+          "name": "BetMania",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": true,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+          "scenes": [
+            {
+              "url": "db://assets/scene/lanuch.scene",
+              "uuid": "4ba63901-17e6-475a-aac8-599f0ef78bd2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android-001",
+          "packages": {
+            "android": {
+              "packageName": "com.starrysky.game",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-31",
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": false,
+              "keystorePath": "/Users/zing/Documents/androidstudio_key/isme.keystore",
+              "keystorePassword": "isallright",
+              "keystoreAlias": "isme",
+              "keystoreAliasPassword": "isallright",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "ab3c9a",
+              "services": [
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "/Users/zing/.CocosCreator/.service/sdkhub/builder/builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ]
+            },
+            "hot-update": null,
+            "cocos-build-template1": {
+              "enterCocos": ""
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "44qK0RkGNJgJuaPa",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2023-3-21 19:56",
+        "dirty": false
+      }
+    }
+  }
+}

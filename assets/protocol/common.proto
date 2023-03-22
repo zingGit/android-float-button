@@ -1,0 +1,52 @@
+//通用错误
+syntax = "proto3";
+
+package common;
+option go_package = "/common_pb";
+
+//  公共
+//  通讯代码CMD规定
+//  1-1000     公共通讯代码
+//  1001-2000  账号服务
+//  2001-3000  活动服务
+//  3001-4000  API服务
+//  4001-5000  网关服务
+//  5001-6000  Gi服务
+//  6001-7000  日志服务
+//  7001-8000  支付服务
+//  8001-9000  业务报表服务
+//  9001-10000 短信服务
+enum CMD {
+  INVALID = 0;     // 无效消息
+  LOGIN_REQ = 1;   // 登录请求 login_request
+  LOGIN_RESP = 2;  // 登录返回 login_response
+  PING_REQ = 3;    // ping
+  PING_RESP = 4;   // pong
+}
+
+// 登录请求
+message LoginRequest {
+  uint32 user_id = 1;  // UID
+  string token = 2;    // Token
+}
+
+// 登录返回
+message LoginResponse {
+  uint32 code = 1;     // 1 成功; 2 userId错误（用户不存在）
+  uint32 user_id = 2;  // UID：这个地方必定和请求中的uid一致，但是为了方便客户端异步处理，把UID返回了
+}
+
+message Ping {
+  uint64 client_time = 1;  // 客户端时间(可用户计算网络延迟)
+}
+
+message Pong {
+  uint64 client_time = 1;  // 客户端时间(可用户计算网络延迟)
+}
+
+// rpc调用公共结果
+message CallResult {
+  int32 code = 1;      // 错误码
+  string message = 2;  // 错误信息
+  bytes data = 3;      // 数据
+}

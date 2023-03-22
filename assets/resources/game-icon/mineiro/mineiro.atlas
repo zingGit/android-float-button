@@ -1,0 +1,307 @@
+
+mineiro.png
+size: 2031,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1313, 250
+  size: 87, 250
+  orig: 87, 250
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1406, 17
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1316, 112
+  size: 128, 136
+  orig: 128, 136
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 659, 49
+  size: 262, 395
+  orig: 262, 395
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1567, 359
+  size: 85, 256
+  orig: 85, 256
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 923, 48
+  size: 207, 161
+  orig: 207, 161
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1132, 28
+  size: 182, 181
+  orig: 182, 181
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1313, 339
+  size: 105, 252
+  orig: 105, 252
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1316, 23
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1734, 112
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1467, 49
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1700, 11
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1825, 344
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 0, 44
+  size: 400, 657
+  orig: 400, 657
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1761, 80
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1446, 129
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 923, 211
+  size: 330, 83
+  orig: 330, 83
+  offset: 0, 0
+  index: -1
+logobg
+  rotate: false
+  xy: 923, 296
+  size: 388, 148
+  orig: 388, 148
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00000
+  rotate: false
+  xy: 167, 0
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00002
+  rotate: false
+  xy: 334, 0
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00004
+  rotate: false
+  xy: 501, 0
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00006
+  rotate: false
+  xy: 668, 5
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00008
+  rotate: false
+  xy: 1567, 315
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00010
+  rotate: false
+  xy: 1565, 271
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00012
+  rotate: false
+  xy: 1567, 227
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00014
+  rotate: false
+  xy: 1567, 183
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00016
+  rotate: false
+  xy: 1567, 139
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00018
+  rotate: false
+  xy: 1567, 95
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00020
+  rotate: true
+  xy: 1734, 192
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00022
+  rotate: true
+  xy: 1778, 192
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00024
+  rotate: false
+  xy: 1822, 300
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00026
+  rotate: false
+  xy: 1822, 256
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00028
+  rotate: false
+  xy: 1822, 212
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00030
+  rotate: false
+  xy: 1822, 168
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00032
+  rotate: false
+  xy: 1822, 124
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00034
+  rotate: true
+  xy: 1989, 177
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00036
+  rotate: false
+  xy: 1822, 80
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00038
+  rotate: true
+  xy: 1989, 10
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00040
+  rotate: false
+  xy: 1533, 51
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00042
+  rotate: false
+  xy: 1533, 7
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00044
+  rotate: false
+  xy: 835, 4
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00046
+  rotate: false
+  xy: 1761, 36
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1
+新建文件夹/logo/logo_00048
+  rotate: false
+  xy: 0, 0
+  size: 165, 42
+  orig: 165, 42
+  offset: 0, 0
+  index: -1

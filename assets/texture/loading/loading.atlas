@@ -1,0 +1,27 @@
+
+loading.png
+size: 447,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meihua
+  rotate: true
+  xy: 296, 16
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+meihuabg
+  rotate: false
+  xy: 296, 132
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: true
+  xy: 0, 0
+  size: 287, 294
+  orig: 287, 294
+  offset: 0, 0
+  index: -1

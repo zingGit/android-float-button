@@ -1,0 +1,132 @@
+
+halloween.png
+size: 1530,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amy1
+  rotate: false
+  xy: 1107, 46
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+amy1A
+  rotate: true
+  xy: 659, 0
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+amy2
+  rotate: true
+  xy: 1086, 114
+  size: 48, 84
+  orig: 48, 84
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 0, 13
+  size: 400, 657
+  orig: 400, 657
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 816, 19
+  size: 139, 394
+  orig: 139, 394
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1107, 2
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1467, 45
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 957, 11
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+fazhang
+  rotate: false
+  xy: 1172, 5
+  size: 242, 157
+  orig: 242, 157
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 1037, 9
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+hair1B
+  rotate: false
+  xy: 957, 96
+  size: 127, 317
+  orig: 127, 317
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1416, 30
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+hair2B
+  rotate: false
+  xy: 1416, 89
+  size: 114, 324
+  orig: 114, 324
+  offset: 0, 0
+  index: -1
+maozi1
+  rotate: true
+  xy: 1086, 164
+  size: 249, 153
+  orig: 249, 153
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: true
+  xy: 1241, 167
+  size: 246, 141
+  orig: 246, 141
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 659, 26
+  size: 387, 155
+  orig: 387, 155
+  offset: 0, 0
+  index: -1
+zhuguang1
+  rotate: true
+  xy: 0, 1
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+zhuguang2
+  rotate: true
+  xy: 33, 4
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1

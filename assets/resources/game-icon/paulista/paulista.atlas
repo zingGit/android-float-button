@@ -1,0 +1,167 @@
+
+paulista.png
+size: 1886,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 0, 125
+  size: 400, 657
+  orig: 400, 657
+  offset: 0, 0
+  index: -1
+card1
+  rotate: true
+  xy: 1716, 0
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+card2
+  rotate: false
+  xy: 1817, 80
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+card3
+  rotate: false
+  xy: 1817, 158
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+clorth
+  rotate: false
+  xy: 1243, 182
+  size: 207, 343
+  orig: 207, 343
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 1637, 315
+  size: 231, 210
+  orig: 231, 210
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 846, 13
+  size: 88, 134
+  orig: 88, 134
+  offset: 0, 0
+  index: -1
+gebyou
+  rotate: true
+  xy: 1716, 216
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 1799, 3
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+hai2
+  rotate: false
+  xy: 936, 14
+  size: 37, 133
+  orig: 37, 133
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 1452, 197
+  size: 183, 328
+  orig: 183, 328
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 1177, 45
+  size: 102, 191
+  orig: 102, 191
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 390, 3
+  size: 66, 120
+  orig: 66, 120
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 1817, 237
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+hairhou
+  rotate: true
+  xy: 458, 7
+  size: 116, 386
+  orig: 116, 386
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 659, 149
+  size: 376, 582
+  orig: 376, 582
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1716, 118
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 1370, 16
+  size: 164, 258
+  orig: 164, 258
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 975, 21
+  size: 126, 200
+  orig: 126, 200
+  offset: 0, 0
+  index: -1
+title
+  rotate: true
+  xy: 1637, 11
+  size: 302, 77
+  orig: 302, 77
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 700, 127
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 659, 127
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+zibg
+  rotate: false
+  xy: 0, 2
+  size: 388, 121
+  orig: 388, 121
+  offset: 0, 0
+  index: -1
