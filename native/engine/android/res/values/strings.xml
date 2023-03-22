@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name" translatable="false">BetMania</string>
     <string name="appsflyer_key" translatable="false">ToynxCMarFPsiVqJmXmBYR</string>
-    <string name="facebook_app_id" translatable="false">592910315827906</string>
-    <string name="fb_login_protocol_scheme" translatable="false">fb592910315827906</string>
-    <string name="facebook_client_token" translatable="false">f4bba612043b629e0c28ccd3bc0e9287</string>
+    <string name="facebook_app_id" translatable="false">145817531469753</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb145817531469753</string>
+    <string name="facebook_client_token" translatable="false">92733a586ba18a56a96bde78883f4084</string>
 
 </resources>

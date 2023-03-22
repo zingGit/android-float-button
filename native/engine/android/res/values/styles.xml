@@ -4,4 +4,11 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowBackground">@drawable/splash_slogan_view</item>
     </style>
+
+    <style name="Dialog_Fullscreen" parent="AlertDialog.AppCompat.Light">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
 </resources>

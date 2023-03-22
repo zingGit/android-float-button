@@ -51,6 +51,7 @@ import io.reactivex.Observer;
 import io.reactivex.disposables.Disposable;
 import jni.JniHelper;
 import jni.SeEventDef;
+import jni.view.ConfirmDialog;
 
 public class AppActivity extends CocosActivity {
     public static JniHelper jniHelper = null;
@@ -211,7 +212,8 @@ public class AppActivity extends CocosActivity {
                     case MotionEvent.ACTION_UP:
                         floatButton.animate().scaleX(1).scaleY(1).setDuration(100).start();
                         Log.d("touch end", "xixi");
-                        showDialog();
+//                        showDialog();
+                        showConfirmDialog();
                         break;
                 }
                 return true;
@@ -239,6 +241,20 @@ public class AppActivity extends CocosActivity {
         Log.d(TAG, "show float button");
         floatButton.setVisibility(isShow ? View.VISIBLE : View.GONE);
         floatButton.bringToFront();
+
+    }
+
+    private void showConfirmDialog() {
+
+        ConfirmDialog confirmDialog = new ConfirmDialog(this);
+        confirmDialog.setOnConfirmListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                showFloatButton(false);
+                JniHelper.sendToSe(SeEventDef.closeWebview, "close webview");
+            }
+        });
+        confirmDialog.show();
 
     }
 }
