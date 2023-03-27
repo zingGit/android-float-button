@@ -5,6 +5,35 @@
 export default class TaskQueue {
 
     private queue: Array<iTask> = []
+
+    /**
+     * 
+     * @param props 可以绑定一个任意数据
+     */
+    public constructor(private props?: any) {
+
+    }
+
+    public getProps() {
+        return this.props
+    }
+
+    /**
+     * @method 获取队列长度
+     * @returns 
+     */
+    public getLength(): number {
+        return this.queue.length
+    }
+
+    /**
+     * @method 判断队列是否为空 
+     * @returns 
+     */
+    public isEmpty(): boolean {
+        return this.queue.length == 0
+    }
+
     /**
      * @method 添加任务
      * @param task 
@@ -32,7 +61,7 @@ export default class TaskQueue {
      */
     public removeAll(): void {
 
-        this.queue.length = 0
+        this.queue = []
     }
     /**
      * @method 执行指定任务
@@ -40,7 +69,7 @@ export default class TaskQueue {
      * @param isRemove 是否移除
      * @returns 
      */
-    public execTask(taskId: number, isRemove?: boolean) {
+    public exec(taskId: number, isRemove?: boolean) {
 
         const index = this.queue.findIndex( task => {
             return task.taskId === taskId
@@ -59,6 +88,8 @@ export default class TaskQueue {
      * @method 执行下一个任务
      */
     public next(): void {
+
+        if(this.isEmpty()) return
 
         const task = this.queue.shift()
         task?.callback(task.data)
